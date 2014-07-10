@@ -11,4 +11,4 @@ var isPrime = function(num) {
 	}
 }
 
-console.log(isPrime(9));
+console.log(isPrime(53));
